@@ -1,8 +1,7 @@
 {
-  "name": "react-qr-code-style",
+  "name": "react-qr-code-generator",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://krishnadeveloper.github.io/react-qr-code-style",
   "dependencies": {
     "@testing-library/jest-dom": "^5.14.1",
     "@testing-library/react": "^11.2.7",
